@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{FA3CEBA2-02CD-4A34-883D-BEF0EDBA23B4}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PCBuilder.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PCBuilder.API/Controllers/AuthenticateController.cs">
+    <Files>
+      <File FileName="PCBuilder.API/Startup.cs" Line="54" Column="1" />
+      <File FileName="PCBuilder.API/appsettings.json" />
+      <File FileName="PCBuilder.API/Program.cs" />
+      <File FileName="PCBuilder.Services/Service/UserServices.cs" Line="288" Column="14" />
+      <File FileName="PCBuilder.Services/Service/ServiceResponse.cs" Line="1" Column="1" />
+      <File FileName="PCBuilder.API/Controllers/BrandController.cs" />
+      <File FileName="PCBuilder.API/Controllers/UserController.cs" />
+      <File FileName="PCBuilder.Services/DTO/AuthResponseDTO.cs" Line="1" Column="1" />
+      <File FileName="PCBuilder.API/Controllers/ProfileController.cs" Line="31" Column="1" />
+      <File FileName="PCBuilder.Services/Service/GoogleServices.cs" Line="20" Column="32" />
+      <File FileName="PCBuilder.Services/Service/PCServices.cs" Line="25" Column="56" />
+      <File FileName="PCBuilder.API/Controllers/AuthenticateController.cs" Line="66" Column="23" />
+      <File FileName="PCBuilder.Services/DTO/UserDTO.cs" Line="1" Column="1" />
+      <File FileName="PCBuilder.Services/Service/OrderServices.cs" Line="1" Column="1" />
+      <File FileName="PCBuilder.Services/DTO/GoogleLoginRequestDTO.cs" Line="6" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PCBuilder" expanded="True">
+            <Node name="PCBuilder.API">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers">
+                <Node name="AuthenticateController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="PCBuilder.Repository" expanded="True">
+              <Node name="Repository" expanded="True" />
+            </Node>
+            <Node name="PCBuilder.Services">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="DTO" expanded="True" />
+              <Node name="Service" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

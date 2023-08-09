@@ -1,0 +1,154 @@
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.deps.json
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.runtimeconfig.json
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.pdb
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.csproj.AssemblyReference.cache
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.GeneratedMSBuildEditorConfig.editorconfig
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.AssemblyInfoInputs.cache
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.AssemblyInfo.cs
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.csproj.CoreCompileInputs.cache
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/refint/PCBuilder.Repository.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.pdb
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.genruntimeconfig.cache
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/ref/PCBuilder.Repository.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.deps.json
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.runtimeconfig.json
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.pdb
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.csproj.AssemblyReference.cache
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.GeneratedMSBuildEditorConfig.editorconfig
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.AssemblyInfoInputs.cache
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.AssemblyInfo.cs
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.csproj.CoreCompileInputs.cache
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/refint/PCBuilder.Repository.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.pdb
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.genruntimeconfig.cache
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/ref/PCBuilder.Repository.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.deps.json
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.runtimeconfig.json
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.pdb
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.csproj.AssemblyReference.cache
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.AssemblyInfoInputs.cache
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.AssemblyInfo.cs
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.csproj.CoreCompileInputs.cache
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/refint/PCBuilder.Repository.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.pdb
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.genruntimeconfig.cache
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/ref/PCBuilder.Repository.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.deps.json
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.runtimeconfig.json
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.pdb
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.csproj.AssemblyReference.cache
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.AssemblyInfoInputs.cache
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.AssemblyInfo.cs
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.csproj.CoreCompileInputs.cache
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/refint/PCBuilder.Repository.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.pdb
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.genruntimeconfig.cache
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/ref/PCBuilder.Repository.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.deps.json
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.runtimeconfig.json
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.pdb
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.csproj.AssemblyReference.cache
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.AssemblyInfoInputs.cache
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.AssemblyInfo.cs
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.csproj.CoreCompileInputs.cache
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.Repository/obj/Debug/net6.0/refint/PCBuilder.Repository.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.pdb
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.genruntimeconfig.cache
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.Repository/obj/Debug/net6.0/ref/PCBuilder.Repository.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.deps.json
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.runtimeconfig.json
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.pdb
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.csproj.AssemblyReference.cache
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.AssemblyInfoInputs.cache
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.AssemblyInfo.cs
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.csproj.CoreCompileInputs.cache
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/refint/PCBuilder.Repository.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.pdb
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.genruntimeconfig.cache
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/ref/PCBuilder.Repository.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.deps.json
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.runtimeconfig.json
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.pdb
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.csproj.AssemblyReference.cache
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.AssemblyInfoInputs.cache
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.AssemblyInfo.cs
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.csproj.CoreCompileInputs.cache
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/refint/PCBuilder.Repository.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.pdb
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.genruntimeconfig.cache
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/ref/PCBuilder.Repository.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.deps.json
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.runtimeconfig.json
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.pdb
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.csproj.AssemblyReference.cache
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.GeneratedMSBuildEditorConfig.editorconfig
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.AssemblyInfoInputs.cache
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.AssemblyInfo.cs
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.csproj.CoreCompileInputs.cache
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/refint/PCBuilder.Repository.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.pdb
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.genruntimeconfig.cache
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/ref/PCBuilder.Repository.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.deps.json
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.runtimeconfig.json
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/bin/Debug/net6.0/PCBuilder.Repository.pdb
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.csproj.AssemblyReference.cache
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.AssemblyInfoInputs.cache
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.AssemblyInfo.cs
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.csproj.CoreCompileInputs.cache
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/refint/PCBuilder.Repository.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.pdb
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/PCBuilder.Repository.genruntimeconfig.cache
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.Repository/obj/Debug/net6.0/ref/PCBuilder.Repository.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.Repository\bin\Debug\net6.0\PCBuilder.Repository.deps.json
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.Repository\bin\Debug\net6.0\PCBuilder.Repository.runtimeconfig.json
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.Repository\bin\Debug\net6.0\PCBuilder.Repository.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.Repository\bin\Debug\net6.0\PCBuilder.Repository.pdb
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\PCBuilder.Repository.csproj.AssemblyReference.cache
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\PCBuilder.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\PCBuilder.Repository.AssemblyInfoInputs.cache
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\PCBuilder.Repository.AssemblyInfo.cs
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\PCBuilder.Repository.csproj.CoreCompileInputs.cache
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\PCBuilder.Repository.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\refint\PCBuilder.Repository.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\PCBuilder.Repository.pdb
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\PCBuilder.Repository.genruntimeconfig.cache
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\ref\PCBuilder.Repository.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Repository\bin\Debug\net6.0\PCBuilder.Repository.deps.json
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Repository\bin\Debug\net6.0\PCBuilder.Repository.runtimeconfig.json
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Repository\bin\Debug\net6.0\PCBuilder.Repository.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Repository\bin\Debug\net6.0\PCBuilder.Repository.pdb
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\PCBuilder.Repository.csproj.AssemblyReference.cache
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\PCBuilder.Repository.GeneratedMSBuildEditorConfig.editorconfig
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\PCBuilder.Repository.AssemblyInfoInputs.cache
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\PCBuilder.Repository.AssemblyInfo.cs
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\PCBuilder.Repository.csproj.CoreCompileInputs.cache
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\PCBuilder.Repository.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\refint\PCBuilder.Repository.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\PCBuilder.Repository.pdb
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\PCBuilder.Repository.genruntimeconfig.cache
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Repository\obj\Debug\net6.0\ref\PCBuilder.Repository.dll

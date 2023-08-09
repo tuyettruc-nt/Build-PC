@@ -1,0 +1,36 @@
+.history{
+    .container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        h1 {
+            margin: 50px 0px;
+            color: red;
+        }
+        img{
+            width: 150px;
+        }
+        p{
+            font-size: 25px;
+            font-weight: 600;
+            margin-bottom: 90px;
+        }
+        .table.table.table-striped.table-hover{
+            th{
+                color: #4a4a4a;
+                font-size: 25px;
+                font-weight: 400;
+                line-height: 1.5;
+            }
+            td{
+                color: #4a4a4a;
+                font-size: 20px;
+                font-weight: 400;
+                line-height: 1.5;
+            }
+        }
+        
+    }
+    
+}

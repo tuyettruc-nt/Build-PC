@@ -1,0 +1,152 @@
+.btn{
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  margin-bottom: 10px;
+}
+
+.btn.detail-button {
+  color: 0f8698;
+  border: 0.5px solid black; 
+  padding: 8px 12px;
+  
+}
+
+.btn.buy-button {
+  color: 0f8698;
+  border: 0.5px solid black; 
+  padding: 8px 12px;
+  /* margin: 3px; */
+  margin-left: 20px;
+}
+
+.btn.detail-button:hover {
+  background-color: #00abc6;
+  color: white;
+}
+
+.btn.buy-button:hover {
+  background-color: #00abc6;
+  color: white;
+}
+
+.small-currency{
+  font-size: 0.75em;
+  position: relative;
+  top: -0.3em;
+}
+
+.price{
+  color: #0f8698;
+}
+.card-text{
+  color: #0f8698;
+  font-weight: 600;
+}
+
+.card-image{
+  border-radius: 10px;
+}
+
+.lead-type {
+  position: relative;
+  padding-left: 10px;
+  margin: 0 0 2px;
+}
+.lead::before {
+  content: "";
+  position: absolute;
+  left: -15px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 14px;
+  height: 14px;
+  background-image: url(//bizweb.dktcdn.net/100/329/122/themes/897348/assets/check.svg?1688119468676);
+  background-size: contain;
+  margin-right: 5px;
+
+}
+.configure-descip-sticky {
+  position: sticky;
+  top: 0;
+  height: 100vh; /* Adjust as needed */
+  overflow-y: auto; /* Enable scrolling if the content exceeds the height */
+
+}
+.configure-descip-container{
+background-color: #ffffff;
+height: 100;
+padding: 2.5rem 2rem;
+}
+
+.configure-descrip{
+background-color: white;
+margin-bottom: 1.75rem;
+max-width: 32rem;
+padding: 2rem 1.75rem 1.75rem;
+}
+
+
+.price-changed{
+font-weight: 600;
+font-size: 30px;
+}
+.component-price{
+background-color: white;
+width: 250px;
+}
+
+  .centered-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+
+
+.bloc-tabs{
+display: flex;
+justify-content: left;
+margin-top: 40px;
+}
+.tabs {
+padding: 15px;
+margin-top: 40px;
+border-radius: 5px;
+box-sizing: content-box;
+position: relative;
+outline: none;
+background-color: white;
+}
+.tabs:not(:last-child){
+border-right: 1px solid rgba(0, 0, 0, 0.274);
+}
+
+.active-tabs  {
+background: white;
+}
+
+.active-tabs::before {
+content: "";
+display: block;
+position: absolute;
+top: -5px;
+left: 50%;
+transform: translateX(-50%);
+width: calc(100% + 2px);
+height: 5px;
+background: rgb(88, 203, 241);
+}
+.card-body{
+  height: 180px;
+}
+
+.component-price-change{
+  color: red;
+  background-color: white;
+  justify-content: center;
+}
+
+.positive-change{
+  color: red;
+}

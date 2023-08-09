@@ -1,0 +1,15 @@
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Services\bin\Release\net6.0\PCBuilder.Services.deps.json
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Services\bin\Release\net6.0\PCBuilder.Services.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Services\bin\Release\net6.0\PCBuilder.Services.pdb
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Services\bin\Release\net6.0\PCBuilder.Repository.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Services\bin\Release\net6.0\PCBuilder.Repository.pdb
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Services\obj\Release\net6.0\PCBuilder.Services.csproj.AssemblyReference.cache
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Services\obj\Release\net6.0\PCBuilder.Services.GeneratedMSBuildEditorConfig.editorconfig
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Services\obj\Release\net6.0\PCBuilder.Services.AssemblyInfoInputs.cache
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Services\obj\Release\net6.0\PCBuilder.Services.AssemblyInfo.cs
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Services\obj\Release\net6.0\PCBuilder.Services.csproj.CoreCompileInputs.cache
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Services\obj\Release\net6.0\PCBuilder.Services.csproj.CopyComplete
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Services\obj\Release\net6.0\PCBuilder.Services.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Services\obj\Release\net6.0\refint\PCBuilder.Services.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Services\obj\Release\net6.0\PCBuilder.Services.pdb
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.Services\obj\Release\net6.0\ref\PCBuilder.Services.dll

@@ -1,0 +1,1044 @@
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/appsettings.Development.json
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/appsettings.json
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.exe
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.deps.json
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.runtimeconfig.json
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.pdb
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.AssemblyReference.cache
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.GeneratedMSBuildEditorConfig.editorconfig
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.AssemblyInfoInputs.cache
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.AssemblyInfo.cs
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.CoreCompileInputs.cache
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.MvcApplicationPartsAssemblyInfo.cs
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.MvcApplicationPartsAssemblyInfo.cache
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.PCBuilder.API.Microsoft.AspNetCore.StaticWebAssets.props
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.build.PCBuilder.API.props
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PCBuilder.API.props
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PCBuilder.API.props
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.pack.json
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.build.json
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.development.json
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/scopedcss/bundle/PCBuilder.API.styles.css
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.CopyComplete
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/refint/PCBuilder.API.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.pdb
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.genruntimeconfig.cache
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/ref/PCBuilder.API.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Azure.Core.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Azure.Identity.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Drawing.Common.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Memory.Data.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Runtime.Caching.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Security.Permissions.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Windows.Extensions.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Repository.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Services.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Repository.pdb
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Services.pdb
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Text.Json.dll
+T:/LearnSpace/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/appsettings.Development.json
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/appsettings.json
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.exe
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.deps.json
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.runtimeconfig.json
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.pdb
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Azure.Core.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Azure.Identity.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Drawing.Common.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Memory.Data.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Runtime.Caching.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Security.Permissions.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Text.Json.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Windows.Extensions.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Repository.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Services.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Repository.pdb
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Services.pdb
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.AssemblyReference.cache
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.GeneratedMSBuildEditorConfig.editorconfig
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.AssemblyInfoInputs.cache
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.AssemblyInfo.cs
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.CoreCompileInputs.cache
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.MvcApplicationPartsAssemblyInfo.cs
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.MvcApplicationPartsAssemblyInfo.cache
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.PCBuilder.API.Microsoft.AspNetCore.StaticWebAssets.props
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.build.PCBuilder.API.props
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PCBuilder.API.props
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PCBuilder.API.props
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.pack.json
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.build.json
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.development.json
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/scopedcss/bundle/PCBuilder.API.styles.css
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.CopyComplete
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/refint/PCBuilder.API.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.pdb
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.genruntimeconfig.cache
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/ref/PCBuilder.API.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/AutoMapper.dll
+T:/LearnSpace/Git Manager/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/appsettings.Development.json
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/appsettings.json
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.deps.json
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.runtimeconfig.json
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.pdb
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/AutoMapper.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Azure.Core.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Azure.Identity.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Text.Json.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Repository.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Services.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Repository.pdb
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Services.pdb
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.AssemblyReference.cache
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.AssemblyInfoInputs.cache
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.AssemblyInfo.cs
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.CoreCompileInputs.cache
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.PCBuilder.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.build.PCBuilder.API.props
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PCBuilder.API.props
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PCBuilder.API.props
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/scopedcss/bundle/PCBuilder.API.styles.css
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.CopyComplete
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/refint/PCBuilder.API.dll
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.pdb
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.genruntimeconfig.cache
+/Users/thinhtran/Documents/GITHUB-TEST-CLONE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/ref/PCBuilder.API.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/appsettings.Development.json
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/appsettings.json
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.exe
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.deps.json
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.runtimeconfig.json
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.pdb
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/AutoMapper.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Azure.Core.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Azure.Identity.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Memory.Data.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Text.Json.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Repository.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Services.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Repository.pdb
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Services.pdb
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.AssemblyReference.cache
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.GeneratedMSBuildEditorConfig.editorconfig
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.AssemblyInfoInputs.cache
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.AssemblyInfo.cs
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.CoreCompileInputs.cache
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.MvcApplicationPartsAssemblyInfo.cs
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.MvcApplicationPartsAssemblyInfo.cache
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.PCBuilder.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.build.PCBuilder.API.props
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PCBuilder.API.props
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PCBuilder.API.props
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.pack.json
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.build.json
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.development.json
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/scopedcss/bundle/PCBuilder.API.styles.css
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.CopyComplete
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/refint/PCBuilder.API.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.pdb
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.genruntimeconfig.cache
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/ref/PCBuilder.API.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/appsettings.Development.json
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/appsettings.json
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.exe
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.deps.json
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.runtimeconfig.json
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.pdb
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/AutoMapper.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Azure.Core.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Azure.Identity.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/System.Memory.Data.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/System.Text.Json.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Repository.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Services.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Repository.pdb
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Services.pdb
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.AssemblyReference.cache
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.GeneratedMSBuildEditorConfig.editorconfig
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.AssemblyInfoInputs.cache
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.AssemblyInfo.cs
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.CoreCompileInputs.cache
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.MvcApplicationPartsAssemblyInfo.cs
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.MvcApplicationPartsAssemblyInfo.cache
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.PCBuilder.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.build.PCBuilder.API.props
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PCBuilder.API.props
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PCBuilder.API.props
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/staticwebassets.pack.json
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/staticwebassets.build.json
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/staticwebassets.development.json
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/scopedcss/bundle/PCBuilder.API.styles.css
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.CopyComplete
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/refint/PCBuilder.API.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.pdb
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.genruntimeconfig.cache
+D:/FreeCourseOnline/freecourse-webapi-net5/BEinProgress/PCBuilderManagement/PCBuilder.API/obj/Debug/net6.0/ref/PCBuilder.API.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Humanizer.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Mono.TextTemplating.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.CodeDom.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/appsettings.Development.json
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/appsettings.json
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.deps.json
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.runtimeconfig.json
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.pdb
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/AutoMapper.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Azure.Core.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Azure.Identity.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Humanizer.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.CodeDom.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Text.Json.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Repository.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Services.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Repository.pdb
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Services.pdb
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.AssemblyReference.cache
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.AssemblyInfoInputs.cache
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.AssemblyInfo.cs
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.CoreCompileInputs.cache
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.PCBuilder.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.build.PCBuilder.API.props
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PCBuilder.API.props
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PCBuilder.API.props
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/scopedcss/bundle/PCBuilder.API.styles.css
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.CopyComplete
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/refint/PCBuilder.API.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.pdb
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.genruntimeconfig.cache
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/ref/PCBuilder.API.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/appsettings.json
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.exe
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.deps.json
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.runtimeconfig.json
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.pdb
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Azure.Core.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Azure.Identity.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Repository.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Services.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Repository.pdb
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Services.pdb
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.AssemblyReference.cache
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.AssemblyInfoInputs.cache
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.AssemblyInfo.cs
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.CoreCompileInputs.cache
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.PCBuilder.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.build.PCBuilder.API.props
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PCBuilder.API.props
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PCBuilder.API.props
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/scopedcss/bundle/PCBuilder.API.styles.css
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.CopyComplete
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/refint/PCBuilder.API.dll
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.pdb
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.genruntimeconfig.cache
+C:/Users/Thinh Tran/Desktop/SWP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/ref/PCBuilder.API.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/appsettings.Development.json
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/appsettings.json
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.exe
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.deps.json
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.runtimeconfig.json
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.pdb
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/AutoMapper.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Azure.Core.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Azure.Identity.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Humanizer.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Mono.TextTemplating.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.CodeDom.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Drawing.Common.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Memory.Data.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Runtime.Caching.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Security.Permissions.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Text.Json.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Windows.Extensions.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Repository.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Services.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Repository.pdb
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Services.pdb
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.AssemblyReference.cache
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.GeneratedMSBuildEditorConfig.editorconfig
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.AssemblyInfoInputs.cache
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.AssemblyInfo.cs
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.CoreCompileInputs.cache
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.MvcApplicationPartsAssemblyInfo.cs
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.MvcApplicationPartsAssemblyInfo.cache
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.PCBuilder.API.Microsoft.AspNetCore.StaticWebAssets.props
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.build.PCBuilder.API.props
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PCBuilder.API.props
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PCBuilder.API.props
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.pack.json
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.build.json
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.development.json
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/scopedcss/bundle/PCBuilder.API.styles.css
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.CopyComplete
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/refint/PCBuilder.API.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.pdb
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.genruntimeconfig.cache
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/ref/PCBuilder.API.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Google.Apis.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Google.Apis.Auth.PlatformServices.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Google.Apis.Auth.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Google.Apis.Core.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.Google.dll
+/Users/thinhtran/Desktop/PCBuilder-BE/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Newtonsoft.Json.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Google.Apis.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Google.Apis.Auth.PlatformServices.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Google.Apis.Auth.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Google.Apis.Core.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.Google.dll
+T:/LearnSpace/Git Manager/BE-PC/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Newtonsoft.Json.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Google.Apis.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Google.Apis.Auth.PlatformServices.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Google.Apis.Auth.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Google.Apis.Core.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.Google.dll
+D:/FreeCourseOnline/freecourse-webapi-net5/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/appsettings.Development.json
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/appsettings.json
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.deps.json
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.runtimeconfig.json
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.API.pdb
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/AutoMapper.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Azure.Core.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Azure.Identity.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Google.Apis.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Google.Apis.Auth.PlatformServices.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Google.Apis.Auth.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Google.Apis.Core.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Humanizer.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.Google.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.CodeDom.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Text.Json.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Repository.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Services.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Repository.pdb
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/bin/Debug/net6.0/PCBuilder.Services.pdb
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.AssemblyReference.cache
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.AssemblyInfoInputs.cache
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.AssemblyInfo.cs
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.CoreCompileInputs.cache
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.PCBuilder.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.build.PCBuilder.API.props
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PCBuilder.API.props
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PCBuilder.API.props
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/scopedcss/bundle/PCBuilder.API.styles.css
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.csproj.CopyComplete
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/refint/PCBuilder.API.dll
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.pdb
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/PCBuilder.API.genruntimeconfig.cache
+/Users/thinhtran/Desktop/PCBuider_BE_BACKUP/PCBuilderManagement/PCBuilder/PCBuilder.API/obj/Debug/net6.0/ref/PCBuilder.API.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\appsettings.Development.json
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\appsettings.json
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\PCBuilder.API.exe
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\PCBuilder.API.deps.json
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\PCBuilder.API.runtimeconfig.json
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\PCBuilder.API.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\PCBuilder.API.pdb
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\AutoMapper.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Azure.Core.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Azure.Identity.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Google.Apis.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Google.Apis.Auth.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Google.Apis.Core.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Humanizer.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.CodeDom.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.Text.Json.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\PCBuilder.Repository.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\PCBuilder.Services.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\PCBuilder.Repository.pdb
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\PCBuilder.Services.pdb
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.csproj.AssemblyReference.cache
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.AssemblyInfoInputs.cache
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.AssemblyInfo.cs
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.csproj.CoreCompileInputs.cache
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.MvcApplicationPartsAssemblyInfo.cs
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.MvcApplicationPartsAssemblyInfo.cache
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\staticwebassets\msbuild.PCBuilder.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\staticwebassets\msbuild.build.PCBuilder.API.props
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PCBuilder.API.props
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PCBuilder.API.props
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\scopedcss\bundle\PCBuilder.API.styles.css
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.csproj.CopyComplete
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\refint\PCBuilder.API.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.pdb
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.genruntimeconfig.cache
+D:\FreeCourseOnline\freecourse-webapi-net5\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\ref\PCBuilder.API.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\appsettings.Development.json
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\appsettings.json
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\PCBuilder.API.exe
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\PCBuilder.API.deps.json
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\PCBuilder.API.runtimeconfig.json
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\PCBuilder.API.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\PCBuilder.API.pdb
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\AutoMapper.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Azure.Core.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Azure.Identity.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Google.Apis.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Google.Apis.Auth.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Google.Apis.Core.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Humanizer.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.CodeDom.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.Drawing.Common.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.Memory.Data.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.Security.Permissions.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.Text.Json.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\PCBuilder.Repository.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\PCBuilder.Services.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\PCBuilder.Repository.pdb
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\bin\Debug\net6.0\PCBuilder.Services.pdb
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.csproj.AssemblyReference.cache
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.GeneratedMSBuildEditorConfig.editorconfig
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.AssemblyInfoInputs.cache
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.AssemblyInfo.cs
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.csproj.CoreCompileInputs.cache
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.MvcApplicationPartsAssemblyInfo.cs
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.MvcApplicationPartsAssemblyInfo.cache
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\staticwebassets\msbuild.PCBuilder.API.Microsoft.AspNetCore.StaticWebAssets.props
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\staticwebassets\msbuild.build.PCBuilder.API.props
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PCBuilder.API.props
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PCBuilder.API.props
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\staticwebassets.pack.json
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\staticwebassets.build.json
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\staticwebassets.development.json
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\scopedcss\bundle\PCBuilder.API.styles.css
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.csproj.CopyComplete
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\refint\PCBuilder.API.dll
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.pdb
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\PCBuilder.API.genruntimeconfig.cache
+T:\LearnSpace\Git Manager\BE-PC\PCBuilderManagement\PCBuilder\PCBuilder.API\obj\Debug\net6.0\ref\PCBuilder.API.dll

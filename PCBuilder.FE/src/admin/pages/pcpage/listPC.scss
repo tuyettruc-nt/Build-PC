@@ -1,0 +1,67 @@
+.layout{
+  display: flex;
+  flex-direction: column;
+  .title{
+    text-align  : center;
+    color: #009393;
+    font-size: xx-large;
+    font-weight: 700;
+    margin: 0px;
+  }
+  .Createbtn{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+    .btn-create{
+      display: block;
+      float: right;
+      padding: 0.8em;
+      padding-left: 2em;
+      padding-right: 2em;
+      cursor: pointer;
+      color: #FFFFFF;
+      font-size: 0.9rem;
+      font-weight: 700;
+      border-radius: 8px;
+      text-transform: uppercase;
+      border: 1px solid #009393;
+      background-color: #009393;
+    }
+    .btn-create:hover {
+      color: #009393;
+      border: 1px solid #009393;
+      background-color: #F0F2F5;
+    } 
+  }
+  .card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .card-body{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      .card-text{
+        font-size: large;
+      }
+    }
+    .card-footer{
+      display: flex;
+      background-color: white;
+      .btn-footer{
+        display: flex;
+        margin-left: 10px;
+        svg{
+          margin-top: 5px;
+          margin-right: 5px;
+          width: 100%;
+        }
+      }
+    }
+  }
+  .MuiBox-root{
+    margin-top: 10px;
+  }
+}

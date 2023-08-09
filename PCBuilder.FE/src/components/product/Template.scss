@@ -1,0 +1,27 @@
+.card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  .card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .card-text{
+      font-size: large;
+    }
+  }
+  .card-footer{
+    display: flex;
+    background-color: white;
+    .btn-footer{
+      margin-left: 10px;
+      svg{
+        margin-top: 5px;
+        margin-right: 5px;
+        width: 100%;
+      }
+    }
+  }
+}

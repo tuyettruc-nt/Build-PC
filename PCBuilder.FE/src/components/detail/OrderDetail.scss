@@ -1,0 +1,52 @@
+.order{
+    .container{
+        .btn{
+            background-color: white;
+            color: black;
+            width: 100px;
+            border: none;
+            svg{
+                font-size: 35px;
+            }
+            svg:hover{
+                color: red;
+            }
+        }
+        .header{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+            h1{
+                font-size: 50px;
+            }
+        }
+        .mb-3 {
+            display: flex;
+            background-color: #F5F5F5;
+            padding: 20px;
+            border-radius: 10px;
+            img{
+                width: 200px;
+                margin-right: 50px;
+            }
+            .content{
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+            }
+        }
+        .info{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 20px;
+        }
+        .custom{
+            font-size: 20px;
+            svg{
+                margin-right: 20px;
+            }
+        }
+    }
+}

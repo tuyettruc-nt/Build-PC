@@ -1,0 +1,42 @@
+.profile{
+    Form{
+        h1{
+            margin-bottom: 20px;
+        }        
+        .mb-3{
+            display: flex;
+            justify-content: space-between;
+            margin: 25px 0px;
+            height: 60px;
+            font-size: 20px;
+            .profileContent{
+                display: flex;
+            }
+            .form-control{
+                height: 70px;
+            }
+        }
+        .btn{
+            margin: 40px 0px;
+            width: 100%;
+            padding: 11px 0px;
+            font-size: 20px;
+            background-color: red;
+        }
+        
+    }
+    .avatar{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 50px;
+        
+        img{
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+        border: 1px solid black;
+        }        
+    }
+    
+}

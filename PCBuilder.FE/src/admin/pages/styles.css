@@ -1,0 +1,16 @@
+.dashboard-content-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center; /* Align items vertically in the center */
+  }
+  
+  .dashboard-content-header h2 {
+    margin-left: 50%; /* Remove default margin */
+    color: black;
+    font-size: xx-large;
+    font-weight: 700;
+    text-align: center; /* Center the text horizontally */
+  }
+
+  

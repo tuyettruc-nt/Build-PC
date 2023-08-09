@@ -1,0 +1,70 @@
+.loginform{
+    height: 100vh;
+    // width: 100vw;
+    background: hsl(177, 97%, 85%);  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #acdbe5, #B2FEFA);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #48bed6, #B2FEFA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+    .container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 450px;
+        height: 100%;   
+        .contentLogin{
+            border-radius: 8px;            
+            background-color: white;
+            font-family: 'open sans', sans-serif;
+            padding: 20px;
+            .input-login{
+                margin: 10px 0px;
+                text-align: left;
+                label{
+                    margin-bottom: 10px;
+                    font-size: 17px;
+                    font-weight: 500;
+                }
+                .custom-input-password{
+                    position: relative;
+                    i{
+                        position: absolute;
+                        top: 8px;
+                        right: 8px;
+                        cursor: pointer;
+                        svg{
+                            width: 40px;
+                            height: 23px;
+                        }
+                    }
+                }
+                
+                
+            }
+            .text-login{
+                font-size: 30px;
+                font-weight: 600;
+                padding: 10px;
+                margin: 20px 0px 10px 0px;
+                text-align: center;
+            }
+            .btn-login{
+                background: hsl(177, 97%, 85%);  /* fallback for old browsers */
+                background: -webkit-linear-gradient(to right, #acdbe5, #B2FEFA);  /* Chrome 10-25, Safari 5.1-6 */
+                background: linear-gradient(to right, #48bed6, #B2FEFA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+                font-size: 20px;
+                font-weight: 600;
+                width: 100%;
+                margin: 10px 0px;
+            }
+            .text-foget{
+                text-align: center;
+                margin: 10px 0px;
+                font-size: 17px;
+                a{
+                    text-decoration: none;
+                }
+                
+            }
+        }
+    }
+}
